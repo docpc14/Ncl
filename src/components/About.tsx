@@ -24,7 +24,7 @@ const About = () => {
           <div className="relative">
             <div className="aspect-[4/3] rounded-3xl shadow-2xl overflow-hidden">
               <img
-                src="/salon-interior-1.jpeg"
+                src="https://images.pexels.com/photos/3993456/pexels-photo-3993456.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
                 alt="Intérieur du salon Normandie Coiffure"
                 className="w-full h-full object-cover"
               />
