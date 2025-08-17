@@ -11,7 +11,7 @@ const Hero = () => {
       <div className="absolute inset-0">
         {/* Image de fond du salon */}
         <img
-          src="/téléchargement (3).jpeg"
+          src="/salon-interior-3.jpeg"
           alt="Salon Normandie Coiffure"
           className="w-full h-full object-cover"
         />

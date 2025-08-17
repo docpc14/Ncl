@@ -12,49 +12,49 @@ const Gallery = () => {
       type: 'salon',
       title: 'Intérieur du salon',
       description: 'Ambiance chaleureuse et moderne',
-      image: '/téléchargement (1).jpeg'
+      image: '/salon-interior-1.jpeg'
     },
     {
       type: 'salon',
       title: 'Espace de travail',
       description: 'Équipements professionnels L\'Oréal',
-      image: '/téléchargement (2).jpeg'
+      image: '/salon-interior-2.jpeg'
     },
     {
       type: 'salon',
       title: 'Zone de coiffage',
       description: 'Design moderne et fonctionnel',
-      image: '/téléchargement (3).jpeg'
+      image: '/salon-interior-3.jpeg'
     },
     {
       type: 'salon',
       title: 'Accueil du salon',
       description: 'Atmosphère accueillante et professionnelle',
-      image: '/téléchargement (4).jpeg'
+      image: '/salon-interior-4.jpeg'
     },
     {
       type: 'salon',
       title: 'Vue d\'ensemble',
       description: 'L\'élégance au service de votre beauté',
-      image: '/téléchargement (1) copy.jpeg'
+      image: '/salon-interior-5.jpeg'
     },
     {
       type: 'salon',
       title: 'Détail du salon',
       description: 'Finitions soignées et matériaux nobles',
-      image: '/téléchargement (2) copy.jpeg'
+      image: '/salon-interior-6.jpeg'
     },
     {
       type: 'salon',
       title: 'Espace détente',
       description: 'Confort et sérénité pour nos clients',
-      image: '/téléchargement (3) copy.jpeg'
+      image: '/salon-interior-7.jpeg'
     },
     {
       type: 'salon',
       title: 'Normandie Coiffure',
       description: 'Votre salon de référence à Lisieux',
-      image: '/téléchargement (4) copy.jpeg'
+      image: '/salon-interior-8.jpeg'
     }
   ];
 
